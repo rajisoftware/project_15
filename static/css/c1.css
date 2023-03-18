@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    border-radius: 30px;
+    border:2px solid blue;
+    width:fit-content;
+    position: relative;
+    top:240px;
+    left:40%;
+    
+}
+h1{
+    color:aqua;
+    background:brown;
+    border-radius: 30px;
+    width:fit-content;
+}
+image{
+    border:2px solid black;
+    border-radius: 45%;
+}
